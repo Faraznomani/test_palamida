@@ -1,2 +1,8 @@
-my name is faraz
-I am not a trrorist
+class xyz{
+
+public static void main(){
+System.out.println("This is a java program");
+
+}
+
+}
